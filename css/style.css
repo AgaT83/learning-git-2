@@ -1,0 +1,13 @@
+body {
+    font-size: 19px;
+    text-align: center;
+}
+
+header {
+    padding-bottom: 5px;
+ }
+
+.info {
+    font-style: italic;
+    padding-top: 5px;
+}
