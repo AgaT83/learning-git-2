@@ -14,5 +14,6 @@ header {
 }
 
 .song {
+    display: -ms-flexbox;
     display: flex;
 }
